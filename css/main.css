@@ -1,0 +1,28 @@
+html {
+  background-color: purple;
+}
+
+body {
+  text-align: center;
+}
+
+div .info-boxes {
+  width: 160px;
+}
+
+header nav li {
+  border-width: 10px;
+  display: inline;
+}
+
+table, th, td {
+  border: solid red 10px;
+}
+
+table {
+  font-size: 25px;
+  background-color: yellow;
+  display: inline-block;
+  border: groove hotpink 10px;
+
+}
